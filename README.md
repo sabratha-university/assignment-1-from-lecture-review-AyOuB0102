@@ -16,9 +16,9 @@ Edit the `Main.java` file and:
 3. Identify where **overloading** and **overriding** occur in the code and explain the difference below.
 
 **Answer:**
-> _Write your explanation here..._
-
----
+الفرق بين override و overload هو 
+Overloading = نفس الاسم لكن معاملات مختلفة (داخل نفس الكلاس).
+Overriding = نفس الاسم والمعاملات لكن تنفيذ مختلف (بين كلاس أب وابن).
 
 ## 🎨 Part 2 – UML Diagram
 Draw the UML diagram using drwa.io or lucidchart for the Shape example (Shape → Circle → Movable, Adjustable.)  
