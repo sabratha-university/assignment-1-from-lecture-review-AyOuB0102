@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/aM4vVoua)
 # java-oop-assignment1
 “Java OOP assignment starter project  and UML practice.”
 
@@ -15,9 +16,9 @@ Edit the `Main.java` file and:
 3. Identify where **overloading** and **overriding** occur in the code and explain the difference below.
 
 **Answer:**
-> _Write your explanation here..._
-
----
+الفرق بين override و overload هو 
+Overloading = نفس الاسم لكن معاملات مختلفة (داخل نفس الكلاس).
+Overriding = نفس الاسم والمعاملات لكن تنفيذ مختلف (بين كلاس أب وابن).
 
 ## 🎨 Part 2 – UML Diagram
 Draw the UML diagram using drwa.io or lucidchart for the Shape example (Shape → Circle → Movable, Adjustable.)  
